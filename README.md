@@ -13,7 +13,7 @@ The project was done in collaboration with other developers and constitutes the 
 <b>Link to original repository where repo was held:</b> <br>
 [Original Repository](https://github.com/Gho-Ost/scenario-quality-checker) <br>
 
-<b>Links to collaborators</b> <br>
+<b>Links to collaborators:</b> <br>
 [Gho-Ost](https://github.com/Gho-Ost) <br>
 [adammielniczuk](https://github.com/adammielniczuk) <br>
 [krzysztof-m-w](https://github.com/krzysztof-m-w) <br>
