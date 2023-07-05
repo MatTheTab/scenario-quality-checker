@@ -6,17 +6,17 @@ Latest build status:
 For analysts documenting functional requirements with scenarios, our SQC application will provide quantitative information and enable detection of problems in functional requirements written in the form of scenarios. The application will be available via GUI and also as a remote API, thanks to which it can be integrated with existing tools.
 
 ---
-<b> Important: </b> <br>
+<b>Important:</b><br>
 
-The project was done in collaboration with other developers and constitutes the final project for Software Engineering classes. It was forked here to allow for easy viewing of developers work.
+The project was done in collaboration with other developers and constitutes the final project for Software Engineering classes. It was forked here to allow for easy viewing of the developer's work.
 
 <b>Link to original repository where repo was held:</b> <br>
-[Original Repository](https://github.com/Gho-Ost/scenario-quality-checker)
+[Original Repository](https://github.com/Gho-Ost/scenario-quality-checker) <br>
 
 <b>Links to collaborators</b> <br>
-[Gho-Ost](https://github.com/Gho-Ost)
-[adammielniczuk](https://github.com/adammielniczuk)
-[krzysztof-m-w](https://github.com/krzysztof-m-w)
+[Gho-Ost](https://github.com/Gho-Ost) <br>
+[adammielniczuk](https://github.com/adammielniczuk) <br>
+[krzysztof-m-w](https://github.com/krzysztof-m-w) <br>
 
 ---
 Backlog sheet access: [backlog](https://docs.google.com/spreadsheets/d/10xPEoCOPM9XNCSuVxjXvBpm4q6dU80llhul9FbcC-B8/edit?usp=sharing)<br>
@@ -160,5 +160,5 @@ Rename actor:
 ---
 
 ## GUI
-![image](https://user-images.githubusercontent.com/100212265/236026976-83f690f6-0a5e-4752-9946-9b9c36d27ae0.png)<br>
-![image](https://user-images.githubusercontent.com/100212265/236027170-c375d044-3982-4776-a094-7b2d7337b419.png)
+![image](https://github.com/MatTheTab/scenario-quality-checker/blob/main/GUI_images/Screenshot%202023-07-05%20122952.png)<br>
+![image](https://github.com/MatTheTab/scenario-quality-checker/blob/main/GUI_images/Screenshot%202023-07-05%20123101.png)
