@@ -6,7 +6,19 @@ Latest build status:
 For analysts documenting functional requirements with scenarios, our SQC application will provide quantitative information and enable detection of problems in functional requirements written in the form of scenarios. The application will be available via GUI and also as a remote API, thanks to which it can be integrated with existing tools.
 
 ---
+<b> Important: </b> <br>
 
+The project was done in collaboration with other developers and constitutes the final project for Software Engineering classes. It was forked here to allow for easy viewing of developers work.
+
+<b>Link to original repository where repo was held:</b> <br>
+[Original Repository](https://github.com/Gho-Ost/scenario-quality-checker)
+
+<b>Links to collaborators</b> <br>
+[Gho-Ost](https://github.com/Gho-Ost)
+[adammielniczuk](https://github.com/adammielniczuk)
+[krzysztof-m-w](https://github.com/krzysztof-m-w)
+
+---
 Backlog sheet access: [backlog](https://docs.google.com/spreadsheets/d/10xPEoCOPM9XNCSuVxjXvBpm4q6dU80llhul9FbcC-B8/edit?usp=sharing)<br>
 Definition of Done sheet: [DoD](https://docs.google.com/spreadsheets/d/1tAZz23FwqmvO13xXP5R6w4fjLJbzPUflcsjcx2UOEy8/edit?usp=sharing)
 
